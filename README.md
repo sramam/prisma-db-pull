@@ -1,3 +1,12 @@
+## Reproduce
+
+```
+git clone https://github.com/sramam/prisma-db-pull.git 
+cd prisma-db-pull
+npm install
+npx prisma db pull
+```
+
 ## Trouble with `npx prisma db pull`
 
 ```
